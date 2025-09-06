@@ -1,4 +1,4 @@
-# GPS-v6
+# GPS-IPv6
 
 GPS-IPv6 is an enhanced version of the original [GPStool](https://github.com/stanford-esrg/gps) with extended IPv6 support for large-scale Internet service discovery.
 
