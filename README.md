@@ -22,7 +22,7 @@ GPS-IPv6 is an enhanced version of the original [GPStool](https://github.com/sta
 ## Quick Start
 
 ### Configuration
-Edit config.iniwith your settings:
+Edit config.ini with your settings:
 ```
 [BigQuery]
 project_id = your-project-id
